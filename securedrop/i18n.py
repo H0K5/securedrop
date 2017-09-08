@@ -74,7 +74,7 @@ def get_locale():
     if locale:
         return locale
     else:
-        return getattr(config, 'DEFAULT_LOCALE')
+        return getattr(config, 'DEFAULT_LOCALE', 'en_US')
 
 
 def get_language():
