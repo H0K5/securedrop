@@ -79,10 +79,10 @@ Create the key
 Export the public key
 ---------------------
 
-To manage GPG keys using the graphical interface (a program called Seahorse),
-click the clipboard icon |gpgApplet| in the top right corner and select
-"Manage Keys". Click "GnuPG keys" and you should see the key that you just
-generated.
+To manage GPG keys using the graphical interface (search for an application
+that is called "Passwords and Keys"), click the clipboard icon |gpgApplet| 
+in the top right corner and select "Manage Keys". Click "GnuPG keys" and 
+you should see the key that you just generated.
 
 |My Keys|
 
