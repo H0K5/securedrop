@@ -194,7 +194,7 @@ things easier later you should use the same username and same password
 on both servers (but not the same password as username). Make sure to
 save this password in your admin KeePassX database afterwards.
 
-Click 'no' when asked to encrypt the home directory. Then configure your
+**Click 'no' when asked to encrypt the home directory**. Then configure your
 time zone.
 
 Partition the disks
